@@ -1,0 +1,103 @@
+body{
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+.logo{
+display: inline-block;
+line-height: 0em;
+}
+
+.toprightlinks{
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  margin-top: 30px;
+}
+
+.seperation-bar{
+  width :960px;
+  margin-top: 25px;
+  margin-bottom: 45px;
+}
+
+.header{
+  width: 900px;
+}
+
+.main-cont-title{
+  font-size: 45px;
+  line-height: 0em;
+  font-family: sans-serif;
+}
+
+.date-posted{
+  color: grey;
+  font-size: 14px;
+  line-height: 0em;
+  margin-bottom: 35px;
+}
+
+.para{
+  text-indent: 35px;
+  color: grey;
+  font-size: 18px;
+  margin-bottom: 35px;
+}
+.list{
+  float: left;
+  margin-right: 60px;
+  margin-left: 80px;
+  font-size: 20px;
+}
+.both-lists{
+  position: absolute;
+  top: 75px;
+
+}
+.recipe-content{
+  position:relative;
+}
+
+.footer-pic{
+  float: left;
+}
+.footy{
+  display: inline-block;
+  color: grey;
+  margin-left: 5px;
+}
+.person-name{
+  font-size: 24px;
+  line-height: 0em;
+}
+.bad-class-name{
+  font-size: 16px
+  line-height: 0em;
+  width: 500px;
+}
+.share-button{
+  display: block;
+	height: 66px;
+	width: 200px;
+	background: red;
+	color: black;
+	text-align: center;
+	font: bold 20px "Helvetica Neue";
+  float: right;
+  margin-right: 100px;
+}
+
+.post-footer{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  color: grey;
+}
+
+.seperation-bar2{
+  width: 960px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+
+}
